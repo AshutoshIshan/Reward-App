@@ -14,6 +14,12 @@ Ponts -
 4. Added the Month, Year dropdown filter
 5. Added the pagination to mnagae the customer list.
 6. Checked the unit test and write the proper code.
+7. Used styled components for CSS styling
+
+Attched the screenshots
+![alt text](image.png)
+![alt text](image-1.png)
+
 
 
 
